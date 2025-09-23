@@ -28,7 +28,7 @@ Aqui vão algumas visualizações retiradas dos dashboards:
 
 ![Exemplo de dashboard 1](images/Slide1.png)  
 ![Exemplo de dashboard 2](images/Slide2.jpg)
-![Exemplo de dashboard 1]() 
+![Exemplo de dashboard 1](images/Slide3.jpg) 
 
 ---
 
