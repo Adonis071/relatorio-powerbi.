@@ -1,17 +1,11 @@
 # 📊 Relatório Interativo Power BI
 
-## Gestão de Dados: Clínica Veterinária
+
 
 ---
 
 ### 👤 Autor  
 **Adonis Pantoja**
-
----
-
-### 🔗 Acesso ao Relatório Interativo  
-Veja o relatório completo e interativo online aqui:  
-[Relatório Power BI Interativo](https://adonis071.github.io/relatorio-powerbi/)
 
 ---
 
@@ -31,6 +25,9 @@ Aqui vão algumas visualizações retiradas dos dashboards:
 ![Exemplo de dashboard 1](images/Slide3.jpg) 
 
 ---
+### 🔗 Acesso ao Relatório Interativo  
+Veja o relatório completo e interativo online aqui:  
+[Relatório Power BI Interativo](https://adonis071.github.io/relatorio-powerbi/)
 
 ### 🛠 Como Utilizar
 
