@@ -27,7 +27,7 @@ Veja o relatório completo e interativo online aqui:
 Aqui vão algumas visualizações retiradas dos dashboards:
 
 ![Exemplo de dashboard 1](images/grafico1.png)  
-![Exemplo de dashboard 2](images/Slide2.png)
+![Exemplo de dashboard 2](images/Slide2.jpg)
 
 ---
 
